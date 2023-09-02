@@ -37,6 +37,7 @@ button {
     background-color: #fff;
     outline: none;
     color: #020929;
+    cursor: pointer;
 }
 
 select {
